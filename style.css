@@ -3,7 +3,17 @@ html{
     width:100%;
 }
 body{
+    background-image:url('spongebob-and-patrick-pkxu8jiwcmcb0n77.jpg')
+    h1{
+        text-align: center
+      } 
+      h2{
+        text-align: center;
+      } 
+      p{
+        text-align: center
+      }
     background-color:goldenrod;
     color:blueviolet;
-    font-family
+    font-family: Cambaria;
 }
